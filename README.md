@@ -18,6 +18,7 @@ turning real-world data from finance, retail, and banking into clear, honest ins
 | [IPO Underpricing Classification](https://github.com/byrakshanda/ipo_underpricing_overpricing_classification) | Classifies IPOs as Underpriced/Overpriced using SVM |
 | [Crypto Volatility Regimes](https://github.com/byrakshanda/crypto_volatility_regime_classification) | Classifies Bitcoin volatility regimes using KNN |
 | [Banking Chatbot Intents](https://github.com/byrakshanda/banking_chatbot_intent_classification) | Classifies banking queries into 77 intents using Naive Bayes |
+| [NSE Delisting Risk (Proxy)](https://github.com/byrakshanda/nse_delisting_risk_proxy_classification) | Random Forest model using listing tenure as a proxy for delisting risk |
 
 ### 📫 Connect with me
 www.linkedin.com/in/rakshanda15ahire | rakshanda.irl404@gmail.com

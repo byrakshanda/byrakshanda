@@ -21,6 +21,6 @@ turning real-world data from finance, retail, and banking into clear, honest ins
 | [NSE Delisting Risk (Proxy)](https://github.com/byrakshanda/nse_delisting_risk_proxy_classification) | Random Forest model using listing tenure as a proxy for delisting risk |
 
 ### 📫 Connect with me
-www.linkedin.com/in/rakshanda15ahire | rakshanda.irl404@gmail.com
+www.linkedin.com/in/rakshanda15ahire | ahirerakshanda@gmail.com
 
 
